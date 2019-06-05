@@ -16,6 +16,7 @@
 		9229ABAD22A6DE6300D6EA9C /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9229ABAC22A6DE6300D6EA9C /* LandmarksTests.swift */; };
 		9229ABB822A6DE6300D6EA9C /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9229ABB722A6DE6300D6EA9C /* LandmarksUITests.swift */; };
 		9229ABC622A70DD700D6EA9C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9229ABC522A70DD700D6EA9C /* CircleImage.swift */; };
+		9229ABC822A7106C00D6EA9C /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9229ABC722A7106C00D6EA9C /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9229ABB722A6DE6300D6EA9C /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		9229ABB922A6DE6300D6EA9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9229ABC522A70DD700D6EA9C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		9229ABC722A7106C00D6EA9C /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				9229AB9722A6DE6100D6EA9C /* SceneDelegate.swift */,
 				9229AB9922A6DE6100D6EA9C /* ContentView.swift */,
 				9229ABC522A70DD700D6EA9C /* CircleImage.swift */,
+				9229ABC722A7106C00D6EA9C /* MapView.swift */,
 				9229AB9B22A6DE6300D6EA9C /* Assets.xcassets */,
 				9229ABA022A6DE6300D6EA9C /* LaunchScreen.storyboard */,
 				9229ABA322A6DE6300D6EA9C /* Info.plist */,
@@ -272,6 +275,7 @@
 			files = (
 				9229AB9622A6DE6100D6EA9C /* AppDelegate.swift in Sources */,
 				9229ABC622A70DD700D6EA9C /* CircleImage.swift in Sources */,
+				9229ABC822A7106C00D6EA9C /* MapView.swift in Sources */,
 				9229AB9822A6DE6100D6EA9C /* SceneDelegate.swift in Sources */,
 				9229AB9A22A6DE6100D6EA9C /* ContentView.swift in Sources */,
 			);
