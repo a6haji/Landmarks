@@ -114,6 +114,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		921589BF22A9CC2300100E65 /* MoreAssets */ = {
+			isa = PBXGroup;
+			children = (
+				92CE11D022A9929E0081647C /* chilkoottrail.jpg */,
+				92CE11C922A9929D0081647C /* chincoteague.jpg */,
+				92CE11C822A9929D0081647C /* hiddenlake.jpg */,
+				92CE11D322A9929F0081647C /* icybay.jpg */,
+				92CE11CD22A9929E0081647C /* lakemcdonald.jpg */,
+				92CE11CE22A9929E0081647C /* rainbowlake.jpg */,
+				92CE11CA22A9929E0081647C /* silversalmoncreek.jpg */,
+				92CE11D122A9929F0081647C /* stmarylake.jpg */,
+				92CE11D222A9929F0081647C /* turtlerock.jpg */,
+				92CE11CF22A9929E0081647C /* twinlake.jpg */,
+				92CE11CC22A9929E0081647C /* umbagog.jpg */,
+				92CE11CB22A9929E0081647C /* yukon_charleyrivers.jpg */,
+				92CE11AA22A990C10081647C /* landmarkData.json */,
+			);
+			path = MoreAssets;
+			sourceTree = "<group>";
+		};
 		9229AB8922A6DE6100D6EA9C = {
 			isa = PBXGroup;
 			children = (
@@ -145,21 +165,9 @@
 				9229ABC522A70DD700D6EA9C /* CircleImage.swift */,
 				9229ABC722A7106C00D6EA9C /* MapView.swift */,
 				9229AB9B22A6DE6300D6EA9C /* Assets.xcassets */,
-				92CE11D022A9929E0081647C /* chilkoottrail.jpg */,
-				92CE11C922A9929D0081647C /* chincoteague.jpg */,
-				92CE11C822A9929D0081647C /* hiddenlake.jpg */,
-				92CE11D322A9929F0081647C /* icybay.jpg */,
-				92CE11CD22A9929E0081647C /* lakemcdonald.jpg */,
-				92CE11CE22A9929E0081647C /* rainbowlake.jpg */,
-				92CE11CA22A9929E0081647C /* silversalmoncreek.jpg */,
-				92CE11D122A9929F0081647C /* stmarylake.jpg */,
-				92CE11D222A9929F0081647C /* turtlerock.jpg */,
-				92CE11CF22A9929E0081647C /* twinlake.jpg */,
-				92CE11CC22A9929E0081647C /* umbagog.jpg */,
-				92CE11CB22A9929E0081647C /* yukon_charleyrivers.jpg */,
+				921589BF22A9CC2300100E65 /* MoreAssets */,
 				92CE119822A984600081647C /* Data.swift */,
 				92CE119922A984600081647C /* Landmark.swift */,
-				92CE11AA22A990C10081647C /* landmarkData.json */,
 				9229ABA022A6DE6300D6EA9C /* LaunchScreen.storyboard */,
 				9229ABA322A6DE6300D6EA9C /* Info.plist */,
 				9229AB9D22A6DE6300D6EA9C /* Preview Content */,
